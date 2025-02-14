@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    color: black;
+    background-color: rgb(103, 139, 211);
+
+}
+
+a:hover 
+{
+    color: purple;
+    font-weight: bold;
+}
+.sam-link:hover {
+    color: red;
+}
+
+
+a
+{
+    color: black
+}
+
+img {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
